@@ -4,7 +4,7 @@
     "contentApiKey": "14c3552f51607440c192b7b4cd"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://mapadaterra.digitalpress.blog",
+    "contentApiKey": "14c3552f51607440c192b7b4cd"
   }
 }
